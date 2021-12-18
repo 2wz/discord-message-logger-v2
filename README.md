@@ -1,6 +1,6 @@
 
-# ODiscord Channel Messages Saver
-Just a channel messages saver.
+## discord-message-logger-v2
+discord-message-logger-v2.
 
 ## Installation
 NPM Packages:
@@ -12,9 +12,7 @@ NPM Packages:
     node index.js <channel_id> <amount> <output> <discord_token>
 
  - channel_id - The channel id to save messages.
- - amount - The amount of messages to save(Might not be accurate because I suck at solving problems, but I tried my best :) ).
+ - amount - The amount of messages to save.
  - output - The ouput path of the results.
  - discord_token - Your discord token.
 
-## License
-MIT © I2rys
